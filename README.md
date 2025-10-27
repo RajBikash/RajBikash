@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
+![MasterHead](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)
 <h1 align="center">Hi 👋, I'm Bikash Raj</h1>
 <h3 align="center">💻 Passionate Full-Stack Developer | Java, Spring Boot, React</h3>
 
