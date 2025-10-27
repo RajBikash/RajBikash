@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/BikashRajDev/BikashRajDev/main/assets/masterhead.png)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/035/682/306/original/igor-freitas-8-bit-comfy-night10803.gif?1615596413)
 
 <h1 align="center">Hi 👋, I'm Bikash Raj</h1>
 <h3 align="center">💻 Passionate Full-Stack Developer | Java, Spring Boot, React</h3>
