@@ -1,7 +1,10 @@
-<!-- Masterhead Banner -->
+<!-- Masterhead Banner (Responsive) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead" width="100%" height="400"/>
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" 
+       alt="MasterHead" 
+       style="width:100%; max-width:1200px; height:auto; border-radius:10px;" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Bikash Raj</h1>
 <h3 align="center">💻 Passionate Full-Stack Developer | Java, Spring Boot, React</h3>
