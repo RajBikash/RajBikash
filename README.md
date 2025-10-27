@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" 
        alt="MasterHead"
-       width="1200" 
+       width="1250" 
        height="300" 
        style="border-radius:10px;" />
 </p>
