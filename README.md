@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" 
        alt="MasterHead"
        width="1200" 
-       height="200" 
+       height="300" 
        style="border-radius:10px;" />
 </p>
 
