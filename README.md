@@ -1,6 +1,6 @@
 <!-- Masterhead Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead" width="1000" height="400"/>
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="MasterHead" width="100%" height="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Bikash Raj</h1>
